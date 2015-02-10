@@ -1,0 +1,11 @@
+autoconf
+gdbm
+htop-osx
+node
+openssl
+pkg-config
+pyenv
+pyenv-virtualenv
+readline
+sqlite
+tree
